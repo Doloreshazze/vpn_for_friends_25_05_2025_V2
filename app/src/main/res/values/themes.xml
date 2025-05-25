@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Vpn_for_friends_25_05_2025_V2" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
