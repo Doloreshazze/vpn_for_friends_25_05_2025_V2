@@ -50,6 +50,7 @@ dependencies {
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
     implementation(libs.wireguard.android.fgribreau)
+    implementation(libs.squareup.okhttp)
     testImplementation(libs.junit)
     testImplementation(libs.kotlinx.coroutines.test) // Added kotlinx-coroutines-test
     androidTestImplementation(libs.androidx.junit)
